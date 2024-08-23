@@ -1,0 +1,15 @@
+﻿  imgui_impl_dx12.cpp
+  imgui_impl_win32.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  imgui_stdlib.cpp
+  Source.cpp
+C:\Users\pawan\Downloads\C++\Dictionary\Source.cpp(230,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Trie.cpp
+C:\Users\pawan\Downloads\C++\Dictionary\Trie.cpp(12,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\pawan\Downloads\C++\Dictionary\Trie.cpp(29,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Dictionary.vcxproj -> C:\Users\pawan\Downloads\C++\Dictionary\x64\Debug\Dictionary.exe
